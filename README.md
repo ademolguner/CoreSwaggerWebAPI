@@ -133,3 +133,5 @@ Shema içerisinde API istek ve cevaplarında (request ve response) kullanılan n
 [![](https://miro.medium.com/max/1177/1*n8oKDRV8hpLPrEe27PCyug.png)](https://miro.medium.com/max/1177/1*n8oKDRV8hpLPrEe27PCyug.png)
 
 Dilim döndüğümce ve öğrendiğim kadarıyla birşeyler aktarmaya çalıştım umarım faydalı olmuştur. Başka bir yazıda görüşmek dileğiyle…
+
+https://medium.com/@ademolguner/core-3-0-ile-swagger-kullanımı-b80196fd8787
