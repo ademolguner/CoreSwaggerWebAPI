@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CoreSwaggerWebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:CoreSwaggerWebAPI.Controllers.StudentsController.GetList">
+            <summary>
+            Listeleme İşlemi.
+            </summary>
+            <returns>Tüm listeyi geri döndürü</returns>
+            <response code="201">Returns List of Student </response>
+            <response code="400">If the item is null</response>  
+        </member>
+        <member name="M:CoreSwaggerWebAPI.Controllers.StudentsController.GetStudent(System.Int32)">
+            <summary>
+            Student arama yapar Id ye göre boş gönderilme durumunda null değer döner
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:CoreSwaggerWebAPI.Controllers.StudentsController.AddStudent(CoreSwaggerWebAPI.Models.Student)">
+            <summary>
+            ekleme yapar
+            </summary>
+            <param name="student"></param>
+        </member>
+    </members>
+</doc>
